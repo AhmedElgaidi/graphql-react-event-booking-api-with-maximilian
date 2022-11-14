@@ -1,7 +1,7 @@
 ## [Create Graphql API with (React, NodeJS and MongoDB)](https://www.youtube.com/playlist?list=PL55RiY5tL51rG1x02Yyj93iypUuHYXcB_)
 
 
-- `experss-graphql package:` It's a package that can be used as a middleware in exprses-node applications and helps us to point to a schema and resolvers and automatically connected them for use and route requests to a parser and then handle them according to our defined schema and forward to the right resovlers!
+- `experss-graphql package:` It's a package that can be used as a middleware in exprses-node applications and helps us to point to a schema and resolvers and automatically connect them for us and route requests to a parser and then handle them according to our defined schema and forward to the right resovler!
 - `graphql package:` A package that helps us to define a schema according to the official GraphQl specifications and definitions
 
 
